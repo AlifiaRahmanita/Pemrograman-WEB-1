@@ -1,0 +1,27 @@
+.kotak
+{
+    width: 100px;
+    background-color: #033;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    font-family: arial;
+    color: #fff;
+    position: fixed;
+    font-size: 20px;
+    top: 0;
+    left: 0;
+}
+
+.kotak:hover
+{
+    width: 300px;
+    background-color: pink;
+    height: 300px;
+    font-size: 50px;
+    line-height: 300px;
+    top: 200px;
+    left: 500px;
+    box-shadow: 0 0 500px rgba(0, 0, 0, 1);
+    border-radius: 100%;
+}

@@ -1,0 +1,9 @@
+.body {font-family: arial;}
+
+.h2 {font-family: georgia; font-size: 30px; font-style: italic; text-align: center;}
+
+#header {background-color: grey; color: black;}
+
+#footer {background-color: black; padding: 25px;}
+
+.footer {display: block; text-align: center;}

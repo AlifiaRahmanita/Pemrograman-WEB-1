@@ -1,0 +1,6 @@
+body {font-family: arial;}
+.h2 {font-family: georgia; font-size: 30px; font-style: italic; text-align: center; padding-top:50px; height: 150px;}
+#header {background-color: grey; color: black; padding: 15px 70px; margin: 0px auto;}
+#footer {display: block; text-align: center; background-color: black; color: white; padding: 25px; margin: 0px auto;}
+.footer {display: block; text-align: center; margin-top: 0px; padding-bottom: 10px;}
+#container {padding: 40px 70px; border: 1px solid; color: grey; padding: 25px; margin: 0pxauto;}

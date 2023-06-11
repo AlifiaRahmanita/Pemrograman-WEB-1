@@ -1,0 +1,6 @@
+.body {font-family: arial; background-color: #556B3F;} 
+.h2 {font-family: verdana; font-size: 30px; font-style: italic; text-align: center; padding-top: 20px; padding-bottom: 20px; height: 20px;} 
+#header {background-color:rgb(255, 161, 138); color: rgb(44, 38, 38); padding: 15px 70px; margin: -10px -10px;} 
+#footer {display: block; text-align: center; background-color: rgb(160, 55, 55); color: white; padding: 25px; margin: 0px auto;} 
+.footer {display: block; text-align: center; margin-top: 0px; padding-bottom: 10px; font-style: italic;} 
+ #container {padding: 40px 100px; color: white; padding: 25px; margin: 15px auto;} 
